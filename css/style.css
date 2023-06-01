@@ -41,4 +41,6 @@ button{
   color: black;
   font-weight: 400;
 }
-
+section{
+  border: 0.02vh solid black;
+}
